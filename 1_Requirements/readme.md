@@ -11,3 +11,10 @@ Hardware
 * Arduino Uno with the Atmel ATmega328p microcontroller.
 * BCD 7-segment
 * 16x2 LCD
+
+Installation
+------------
+You will need to have the AVR toolchain installed on your system. This includes:
+* avr-gcc
+* avr-libc
+* avrdude
