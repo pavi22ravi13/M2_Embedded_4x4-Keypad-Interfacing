@@ -29,8 +29,7 @@ You will need to have the AVR toolchain installed on your system. This includes:
 * Risk of computer virus.
 
 ## OPPORTUNITIES:
-Apart from those informations that are mentioned above in the objectives, you can also use your ideas how to take this project to next level by adding more informations like:
-Display all the books that are available, display highest price books etc. 
+you can also use your ideas and take this project to next level by researching to it.
 
 ## THREATS:
  * inadequacy of infrastructure and hardware.
@@ -51,15 +50,10 @@ By entering the details you want to know.
 # High Level Requirements
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
-| HLR_1 |    Add book information | Implemented  |
-| HLR_2 |    Display book information  | Implemented  |
-| HLR_3 |    List all books of given author  | Implemented  |
-| HLR_4 |    List the title of specified book| Implemented  |
-| HLR_5 |    List the count of books in the library  | Implemented  |
+| HLR_1 |  Keypad interfacing and displaying the output (Numbers) to BCD 7-segment   | Implemented  |
 
 # Low Level Requirements
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
-| LLR_1 |  List of operations displayed | Implemented  |
-| LLR_2 |  Input from the user  | Implemented  |
-| LLR_3 |  Exit the program  | Implemented  |
+| LLR_1 |  Input from the microcontroller  | Implemented  |
+| LLR_2 |  Exit the program  | Implemented  |
